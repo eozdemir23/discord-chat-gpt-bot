@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-chat-gpt": "^2.0.1",
+    "discord.js": "^14.14.1"
+  }
+}
